@@ -23,15 +23,13 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/emergent-vr.png
 name: Emergent VR *
-description: 'Emergent VR was a San Francisco Bay Area virtual-reality startup backed
-  by GV (Google Ventures), where it is listed in the portfolio with the asterisk GV
-  uses to mark exited companies. The enrichment pass found no live company web presence:
-  the former emergentvr.com domain now resolves to an unrelated third-party blog, and
-  the company''s GitHub organization (github.com/EmergentVR, created March 2015) holds
-  only ten repositories, all of them OpenCV builds and a fork of Google''s cardboard-unity
-  SDK, with no activity after June 2016. No developer portal, documentation, API, SDK,
-  or event surface exists for this company, so no API artifacts were produced. Sector:
-  consumer / virtual reality.'
+description: 'Emergent VR was a San Francisco Bay Area virtual-reality startup backed by GV (Google Ventures),
+  where it is listed in the portfolio with the asterisk GV uses to mark exited companies. The enrichment
+  pass found no live company web presence: the former emergentvr.com domain now resolves to an unrelated
+  third-party blog, and the company''s GitHub organization (github.com/EmergentVR, created March 2015)
+  holds only ten repositories, all of them OpenCV builds and a fork of Google''s cardboard-unity SDK,
+  with no activity after June 2016. No developer portal, documentation, API, SDK, or event surface exists
+  for this company, so no API artifacts were produced. Sector: consumer / virtual reality.'
 url: https://raw.githubusercontent.com/api-evangelist/emergent-vr/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -39,10 +37,10 @@ x-backed-by:
 - gv
 x-tier: stub
 x-tier-reason: portfolio-lead
-x-status: dormant
+x-status: defunct
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 tags:
 - Company
 - Consumer
